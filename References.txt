@@ -1,0 +1,4 @@
+[1] The PageRank Algorithm (http://pr.efactory.de/e-pagerank-algorithm.shtml)
+[2] The Google Pagerank Algorithm and How It Works (http://www.cs.princeton.edu/~chazelle/courses/BIB/pagerank.htm)
+[3] PageRank: What Is It? And How Do You Calculate It? (https://www.practicalecommerce.com/pagerank-what-is-it-and-how-do-you-calculate-it)
+[4] Wikipedia:PageRank (https://en.wikipedia.org/wiki/PageRank)
