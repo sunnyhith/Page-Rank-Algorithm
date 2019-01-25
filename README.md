@@ -6,3 +6,5 @@ This program fetches the necessary information from the user in an interactive w
 This is a JFrame which initially takes in the number of pages, and sends this along with connections between them to the program "PageRank_User.java" where the actual page rank values are being calculated.
 
 PageRank_User.java :
+The logic behind the calculation of PageRank values for each of the pages.
+Information related to pages and the links between them is obtained from the program "PageRank_Final.java".
